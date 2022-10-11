@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5d5BGhMefs8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">HDFC Induction Training</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="HDFC_Induction_Training_ORG">
+    <organization identifier="HDFC_Induction_Training_ORG">
+      <title>HDFC Induction Training</title>
+      <item identifier="HDFC_Induction_Training_01_SCO" isvisible="true" identifierref="__5d5BGhMefs8_RES">
+        <title>HDFC Induction Training</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5d5BGhMefs8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6TuuzNEBwwT_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6mQgxjwSh4o_video_6TuuzNEBwwT_26_56_1280x720.jpg" />
+      <file href="mobile/6PdkYhvYB4s_80.jpg" />
+      <file href="story_content/6eD0Qovy593_44100_56_0.mp3" />
+      <file href="story_content/5uSiE7dCnMd_44100_56_0.mp3" />
+      <file href="mobile/6qCeUDVsX3k_Y.png" />
+      <file href="mobile/6R1yWFWpms6.png" />
+      <file href="story_content/6CClAtgAkJL_44100_56_0.mp3" />
+      <file href="story_content/video_5wl0nqAb8iW_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6YlzIg3zlfr_video_5wl0nqAb8iW_26_56_1280x720.jpg" />
+      <file href="story_content/6jvJygqkVPS_44100_56_0.mp3" />
+      <file href="story_content/video_6GVeMHUQ8ab_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6NI1NzxJPAI_video_6GVeMHUQ8ab_26_56_1280x720.jpg" />
+      <file href="story_content/6o5bGmMq8Jp_44100_56_0.mp3" />
+      <file href="story_content/video_5Ye2BKJUhD3_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6I5QzBe2nsP_video_5Ye2BKJUhD3_26_56_1280x720.jpg" />
+      <file href="story_content/video_6h2YCYLkoJA_26_56_1280x720.mp4" />
+      <file href="mobile/poster_5YU0yc8PhbH_video_6h2YCYLkoJA_26_56_1280x720.jpg" />
+      <file href="story_content/video_6N85tY2uzU2_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6fub88fncFT_video_6N85tY2uzU2_26_56_1280x720.jpg" />
+      <file href="story_content/video_6SPzdbEngbl_26_56_1280x720.mp4" />
+      <file href="mobile/poster_5hx0PKDKL33_video_6SPzdbEngbl_26_56_1280x720.jpg" />
+      <file href="story_content/video_6Q25OPpX4vf_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6ADZXSLWluR_video_6Q25OPpX4vf_26_56_1280x720.jpg" />
+      <file href="story_content/video_5VmOu66i93e_26_56_1280x720.mp4" />
+      <file href="mobile/poster_673sfNARRew_video_5VmOu66i93e_26_56_1280x720.jpg" />
+      <file href="story_content/video_6HZzsgqVlTq_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6MF8zunu10V_video_6HZzsgqVlTq_26_56_1280x720.jpg" />
+      <file href="story_content/video_6RsdWc7rc7d_26_56_1280x720.mp4" />
+      <file href="mobile/poster_6IuV5uLn17p_video_6RsdWc7rc7d_26_56_1280x720.jpg" />
+      <file href="story_content/video_5sH8fmqV0vw_26_56_1280x720.mp4" />
+      <file href="mobile/poster_5YSMVoquB3a_video_5sH8fmqV0vw_26_56_1280x720.jpg" />
+      <file href="story_content/video_5xlFVPrXpuq_26_56_1280x720.mp4" />
+      <file href="mobile/poster_5kMmWFNN3YT_video_5xlFVPrXpuq_26_56_1280x720.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/60NTfYzT71B.jpg" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bHBpmZ9P0y.js" />
+      <file href="html5/data/js/5jMpjfeAiMn.js" />
+      <file href="html5/data/js/5kjVEU11MOI.js" />
+      <file href="html5/data/js/5n9HRSwflnF.js" />
+      <file href="html5/data/js/5o0CjqFca4s.js" />
+      <file href="html5/data/js/5rNCRxKIXn7.js" />
+      <file href="html5/data/js/5s9FoWpmOWd.js" />
+      <file href="html5/data/js/5VPTj4GBo0y.js" />
+      <file href="html5/data/js/5vTqiie7V9E.js" />
+      <file href="html5/data/js/5Y8lVFonUxq.js" />
+      <file href="html5/data/js/60qp4Ch16pV.js" />
+      <file href="html5/data/js/65aZcw5Mcqk.js" />
+      <file href="html5/data/js/68mpaJG6KRN.js" />
+      <file href="html5/data/js/68yvXTYeY34.js" />
+      <file href="html5/data/js/6B6unRLaYaG.js" />
+      <file href="html5/data/js/6E0flsIc1op.js" />
+      <file href="html5/data/js/6fOZEy7P519.js" />
+      <file href="html5/data/js/6G9Jo01fCem.js" />
+      <file href="html5/data/js/6HCNfJkDmFF.js" />
+      <file href="html5/data/js/6iVn7CDxvdK.js" />
+      <file href="html5/data/js/6izBPphLpEz.js" />
+      <file href="html5/data/js/6jYrSyR0FHe.js" />
+      <file href="html5/data/js/6LvKcEmduZO.js" />
+      <file href="html5/data/js/6MaloWTzMNF.js" />
+      <file href="html5/data/js/6MquBVkIhnZ.js" />
+      <file href="html5/data/js/6oA3f7uRT8v.js" />
+      <file href="html5/data/js/6P8eIXjAliv.js" />
+      <file href="html5/data/js/6Rc4xpofQXJ.js" />
+      <file href="html5/data/js/6SeGGJ3lG7A.js" />
+      <file href="html5/data/js/6VVoIAeOEvv.js" />
+      <file href="html5/data/js/6WxkhPzAHbY.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
